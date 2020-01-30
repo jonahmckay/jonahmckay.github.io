@@ -1,2 +1,3 @@
-# jonahmckay.github.io
- A personal website
+# jonah mckay dot io
+ A personal website, under construction
+ 
